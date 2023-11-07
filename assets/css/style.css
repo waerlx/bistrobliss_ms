@@ -181,7 +181,7 @@ section {
   margin: 0 8px;
 }
 .main {
-  background: url(../img/icons/main_bg.jpg) center no-repeat;
+  background: url(../img/main_bg.jpg);
 }
 .btn_frst {
   background: #ad343e;
