@@ -191,3 +191,32 @@ section {
 .btn_frst:hover {
   border-color: #2c2f24;
 }
+.browse_card{
+  border-radius: 12px;
+  border: 1.5px solid #DBDFD0;
+  background: #fff;
+  width: calc((100% - 72px) / 4);
+  padding: 40px 34px 32px ;
+}
+.browse_ic{
+width: 100px;
+height: 100px;
+border-radius: 60%;
+display: block;
+background: #DBDFD0;
+margin: 0 auto 30px;
+
+}
+.browse_card__1 .browse_ic{
+  background-image: url(../img/icon1.png);
+}
+.browse_card__2 .browse_ic{
+  background-image: url(../img/icon1.png);
+}
+.browse_card__3 .browse_ic{
+  background-image: url(../img/icon1.png);
+}
+.browse_card__4 .browse_ic{
+  background-image: url(../img/icon1.png);
+}
+
